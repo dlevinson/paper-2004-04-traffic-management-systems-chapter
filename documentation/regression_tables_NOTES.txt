@@ -1,0 +1,1 @@
+The trimmed tables kicked out the observations with speed equal to #DIV/0!(invalid) and observations other than Tuesday, Wednesday and Thursday from the original tables.

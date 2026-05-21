@@ -1,6 +1,6 @@
 # License Status: Traffic Management Systems (Chapter)
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:04:48 AEST
 
 Recorded license/access note from the verified audit row: Book/publisher terms apply to the paper; add repository license/provenance for derived traffic-management data before public release.
 

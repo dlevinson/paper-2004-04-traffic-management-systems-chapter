@@ -1,5 +1,9 @@
 # Traffic Management Systems
 
+## Contribution
+
+This chapter demonstrates how regression analysis can evaluate the long-run systemwide performance of established traffic-management technologies when clean before-and-after experiments are unavailable. Twin Cities results associate ramp meters with higher speeds and fewer incidents, service patrols with faster incident recovery, and variable-message signs with more ambiguous effects.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2004-04`
